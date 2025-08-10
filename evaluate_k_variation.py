@@ -1,4 +1,4 @@
-from first import run_knn_model
+from mnist_knn_sklearn import run_knn_model
 import matplotlib.pyplot as plt 
 from tensorflow.keras.datasets import mnist 
 
@@ -25,3 +25,4 @@ def line_chart(k_values, list_accuracy):
 k_values = [1, 3, 5, 7]
 list_accuracy = testing_k(X_train, y_train, X_test, y_test, k_values)
 line_chart(k_values, list_accuracy)
+
