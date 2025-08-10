@@ -1,6 +1,6 @@
 # mnist-digit-classifier
 MNIST Digit Classifier using K-Nearest Neighbors (KNN) with scikit-learn
-Sure! Here’s a clean, ready-to-use **README.md** content for your Phase 1 folder:
+
 This project demonstrates a comprehensive exploration of the MNIST handwritten digit dataset, including data visualization, statistical analysis, and the implementation of a K-Nearest Neighbors classification model using the scikit-learn library.
 
 ## Key Features
